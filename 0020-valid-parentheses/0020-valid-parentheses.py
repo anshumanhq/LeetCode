@@ -16,10 +16,5 @@ class Solution:
                     store.pop()
                 else:
                     return False
-        if store==[]:
-            return True
-        elif len(store)<=1:
-            return False
-        else:
-            return False
+        return not store
             
