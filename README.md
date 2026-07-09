@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshumanhq/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumanhq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshumanhq/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumanhq/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -46,8 +48,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumanhq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumanhq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
