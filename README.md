@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumanhq/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anshumanhq/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anshumanhq/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
