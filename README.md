@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumanhq/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/anshumanhq/LeetCode/tree/master/0011-container-with-most-water) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anshumanhq/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumanhq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/anshumanhq/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anshumanhq/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/anshumanhq/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/anshumanhq/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
