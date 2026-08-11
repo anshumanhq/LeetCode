@@ -9,13 +9,14 @@ class Solution(object):
         data=[[] for _ in range(numRows)]
         if numRows == 1: #mera aage ka code num row 1 ke liye index error de dega es liye direct return krna jada better tha
             return s
-        n=len(s)
-        i=0
-        x=0
-        y=True #true means assending and False means desending
-        while i<n:
-            data[x].append(s[i])
-            i+=1
+        
+        # WHILE LOOP HATAA KAR FOR LOOP LAGAYA
+        x = 0
+        y = True #true means assending and False means desending
+        
+        for ch in s:   # <--- Pehle while i<n tha, ab for ch in s
+            data[x].append(ch)   # <--- Pehle s[i] tha, ab ch
+            
             if y:
                 if x == numRows - 1: #agar ye last list per pahuch gya then mujhe esko reverse krna padega
                     y = False
@@ -28,10 +29,9 @@ class Solution(object):
                     x += 1  
                 else:
                     x -= 1
+        
         m=''
         for sublist in data:
-            #if sublist:
-            #    m+=sublist[0]
             m += ''.join(sublist)  
 
         return m
