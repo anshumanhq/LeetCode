@@ -19,7 +19,7 @@ class Solution(object):
             if digit == 0:
                 continue                     
 
-            # For place value 1000, only M repeats
+            # For place value 1000, only M repeats 
             if pos == 1000:
                 res += 'M' * digit
                 continue
@@ -39,5 +39,4 @@ class Solution(object):
                 res += five + unit * (digit - 5)
             elif digit == 9:
                 res += unit + ten
-
         return res
