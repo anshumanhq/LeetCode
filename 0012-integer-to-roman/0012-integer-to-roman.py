@@ -24,6 +24,7 @@ class Solution(object):
                 res += 'M' * digit
                 continue
 
+
             # Determine the symbols for this place
             unit = cons[pos]
             five = cons[pos * 5]
