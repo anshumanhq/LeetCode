@@ -4,7 +4,6 @@ class Solution(object):
         :type num: int
         :rtype: str
         """
-        # Basic Roman symbols (unit and five)
         cons = {
             1: 'I', 5: 'V', 10: 'X', 50: 'L',
             100: 'C', 500: 'D', 1000: 'M'
@@ -14,11 +13,11 @@ class Solution(object):
         length = len(num_str)
 
         for index, ch in enumerate(num_str):
-            digit = int(ch)                      # IMPORTANT: string se int mein convert karo
+            digit = int(ch)
             pos = 10 ** (length - index - 1)     # place value: 1, 10, 100, 1000
 
             if digit == 0:
-                continue                         # kuch nahi karna
+                continue                     
 
             # For place value 1000, only M repeats
             if pos == 1000:
@@ -26,9 +25,9 @@ class Solution(object):
                 continue
 
             # Determine the symbols for this place
-            unit = cons[pos]                     # e.g., 1->'I', 10->'X', 100->'C'
-            five = cons[pos * 5]                 # e.g., 5->'V', 50->'L', 500->'D'
-            ten = cons[pos * 10]                 # e.g., 10->'X', 100->'C', 1000->'M'
+            unit = cons[pos]
+            five = cons[pos * 5]
+            ten = cons[pos * 10]
 
             if digit <= 3:
                 res += unit * digit
