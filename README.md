@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumanhq/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anshumanhq/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anshumanhq/LeetCode/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumanhq/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anshumanhq/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/anshumanhq/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/anshumanhq/LeetCode/tree/master/0015-3sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/anshumanhq/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/anshumanhq/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
