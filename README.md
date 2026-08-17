@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anshumanhq/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/anshumanhq/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumanhq/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anshumanhq/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/anshumanhq/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anshumanhq/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumanhq/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
