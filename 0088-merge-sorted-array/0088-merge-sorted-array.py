@@ -7,12 +7,9 @@ class Solution(object):
         :type n: int
         :rtype: None Do not return anything, modify nums1 in-place instead.
         """
-        if m==0 and n==0:
-            nums1[:]=[]
         srtd=[]
         for i in range(m):
             srtd.append(nums1[i])
         for j in range(n):
             srtd.append(nums2[j])
         nums1[:]=sorted(srtd)
-        return sorted(srtd)
