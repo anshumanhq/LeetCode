@@ -5,8 +5,5 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        num1=int(a,2)
-        num2=int(b,2)
-        total=num1+num2
-        result=bin(total)[2:]
-        return result
+        num1,num2=int(a,2),int(b,2)
+        return bin(num1+num2)[2:]
