@@ -6,8 +6,7 @@ class Solution(object):
         """
         #mujhe prices me low and high price find krna hai sath me condition honi chaiye
         # low ka index < index of high
-        min_price = float('inf')
-        max_profit = 0
+        min_price, max_profit= float('inf'), 0
         
         for price in prices:
             if price < min_price:
@@ -15,5 +14,5 @@ class Solution(object):
             profit = price - min_price
             if profit > max_profit:
                 max_profit = profit
-                
+          
         return max_profit
