@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anshumanhq/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/anshumanhq/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshumanhq/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/anshumanhq/LeetCode/tree/master/0136-single-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anshumanhq/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/anshumanhq/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/anshumanhq/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/anshumanhq/LeetCode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
